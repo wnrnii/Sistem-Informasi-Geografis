@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Gelora Bung Karno</name>
+    <NetworkLink>
+      <name>Polygon</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1jR367dz4WmvwBa8iNP0Dy-IwbRUuuak&lid=YmV76U8fw0I]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
