@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DIY Yogyakarta</name>
+    <NetworkLink>
+      <name>Polygon_Tugas-4</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=17EiMadCJEOFTZYRCRLK9xlL3TWeiDzc&lid=GKnER1u_uy0]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
